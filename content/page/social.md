@@ -4,13 +4,15 @@
 
 [Click to open shared calendar](https://outlook.office365.com/owa/calendar/d3495141dd604a45b1a70bcec775574c@imperial.ac.uk/96f193142b4a41d9a6e4946634663c5817212224041536648077/calendar.html) or [click here to download .ics](https://outlook.office365.com/owa/calendar/d3495141dd604a45b1a70bcec775574c@imperial.ac.uk/96f193142b4a41d9a6e4946634663c5817212224041536648077/calendar.ics).
 
+[Social channel in DIDE-WP Microsoft Teams group](https://teams.microsoft.com/l/channel/19%3Afe29e82660f74575a9d515de83d01afa%40thread.tacv2/Social?groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&tenantId=2b897507-ee8c-4575-830b-4f8267c3d307)
+
 ## Coming up
 
+* Board Games Night - next event Thursday 17th July, 5pm onwards, beginning in SPH room 310 (decamping elsewhere if we continue past 7pm) - [details](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1750329242712?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1750329242712&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1750329242712)
+
+* Bouldering - next happening July 17th from 6.15pm - see the [Bouldering channel](https://teams.microsoft.com/l/channel/19%3Ac670ba9048344213b0736a2348a1e709%40thread.tacv2/Bouldering?groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&tenantId=2b897507-ee8c-4575-830b-4f8267c3d307) for details
+
 * DIDE Book Appreciation Club,  Thursday 12.30 every 2 weeks. Next happening 23rd July
-
-* Board Games Night - Next event Thursday 17th July, 5pm onwards, beginning in SPH room 310 (decamping elsewhere if we continue past 7pm) - [details](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1750329242712?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1750329242712&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1750329242712)
-
-* Bouldering – next happening July 17th- see the [Bouldering channel](https://teams.microsoft.com/l/channel/19%3Ac670ba9048344213b0736a2348a1e709%40thread.tacv2/Bouldering?groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&tenantId=2b897507-ee8c-4575-830b-4f8267c3d307) for details
 
 * Leaving drinks for Catherine Troman 24th July
 
@@ -18,9 +20,9 @@
 
 * Street Food Market every Thursday on White City Campus from 12.00-15.00 in the quad on the north side, outside The Works
 
-* July DIDE photo competition, check out the social channel on Teams for details, closing July 31st
+* July DIDE photo competition, theme of Water (details [here](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1751901546219?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1751901546219&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1751901546219)), closing July 31st
 
-* Pub trip - The next one will be Tuesday July 15th (at Dear Grace, for Charlie's leaving drinks)
+* Pub trip - Next one TBA
 
 * French language coffee - Next occasion TBA
 
@@ -38,13 +40,15 @@
 
 ## Past events
 
-* Uren Building 11th Floor cocktail club 19th June 17:00-19:00 - [details](https://teams.microsoft.com/l/message/19:fe29e82660f74575a9d515de83d01afa@thread.tacv2/1749720102264?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&groupId=ba231111-1572-42ae-981e-c8bc7aa681ef&parentMessageId=1749720102264&teamName=DIDE%20-%20WP&channelName=Social&createdTime=1749720102264)
+* Leaving drinks for Charlie Whittaker and Trystan Leng 15th July Dear Grace
+
+* Uren Building 11th Floor cocktail club 19th June 
 
 * Brain Sciences LGBTQ+ Allies Network Summer Social 19th June
 
-* Post-viva drinks for Julia and Lanre. 16th June The Broadcaster
+* Post-viva drinks for Julia and Lanre 16th June The Broadcaster
 
-* Leaving drinks for Zara. 12th June Dear Grace
+* Leaving drinks for Zara 12th June Dear Grace
 
 * Board Games Night 5th June
 
